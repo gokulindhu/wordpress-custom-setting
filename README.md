@@ -1,4 +1,4 @@
-# Wordpress-Customer-Banner-Setting
+# Wordpress-Custom-Banner-Setting
 
 This WordPress plugin adds an admin settings page that allows site administrators to configure a customizable banner displayed on all pages. It includes options to toggle the banner, set the banner message, customize button text, and define a target URL for the button.
 
